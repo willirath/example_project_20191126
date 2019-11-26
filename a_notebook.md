@@ -31,3 +31,11 @@ plt.scatter(
     alpha=0.2
 );
 ```
+
+```python
+plt.hist(np.random.normal(size=(1000, )));
+```
+
+```python
+
+```
